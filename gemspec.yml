@@ -1,0 +1,12 @@
+name: deployable-zmq
+summary: "TODO: Summary"
+description: "TODO: Description"
+license: MIT
+authors: Deployable Ltd Matt Hoyle
+email: code@deployable.co
+homepage: https://rubygems.org/gems/deployable-zmq
+
+development_dependencies:
+  rspec: ~> 2.4
+  rubygems-tasks: ~> 0.2
+  yard: ~> 0.8
