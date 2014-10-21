@@ -1,2 +1,5 @@
 doc/
 pkg/
+.svn/
+.gems/
+.bundle/
