@@ -8,6 +8,7 @@ homepage: https://rubygems.org/gems/deployable-zmq
 
 dependencies:
   deployable-patch: ~> 0.1
+  ffi-rzmq: ~> 2.0.1
 
 development_dependencies:
   rspec: ~> 2.4
