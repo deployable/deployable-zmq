@@ -11,6 +11,6 @@ dependencies:
   ffi-rzmq: ~> 2.0.1
 
 development_dependencies:
-  rspec: ~> 2.4
+  rspec: ~> 3.1
   rubygems-tasks: ~> 0.2
   yard: ~> 0.8
