@@ -1,0 +1,16 @@
+name: deployable-zmq
+summary: "ZMQ helper classes"
+description: "Standard ZMQ Pattern classes"
+license: MIT
+authors: Deployable Ltd Matt Hoyle
+email: code@deployable.co
+homepage: https://rubygems.org/gems/deployable-zmq
+
+dependencies:
+  deployable-patch: ~> 0.1
+  ffi-rzmq: ~> 2.0.1
+
+development_dependencies:
+  rspec: ~> 3.1
+  rubygems-tasks: ~> 0.2
+  yard: ~> 0.8
