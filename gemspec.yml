@@ -7,7 +7,7 @@ email: code@deployable.co
 homepage: https://rubygems.org/gems/deployable-zmq
 
 dependencies:
-  deployable-patch: ~> 0.1
+  deployable-patch: ~> 0.3
   ffi-rzmq: ~> 2.0.1
 
 development_dependencies:
